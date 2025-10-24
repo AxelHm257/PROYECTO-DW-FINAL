@@ -1,0 +1,22 @@
+body {
+
+    padding: auto;
+    margin: 0;
+    
+
+}
+.divNavBar{
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+   
+}
+.divTitulo{
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   background-color :plum;
+
+}
